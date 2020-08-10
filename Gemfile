@@ -7,6 +7,7 @@ ruby '2.7.1'
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 4.1'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.2'
+# https://github.com/jpmcgrath/shortener
 gem 'shortener'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
